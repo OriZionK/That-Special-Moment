@@ -1,0 +1,16 @@
+.div {
+    background-color: black;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+    text-align: center; 
+}
+
+.white-text {
+    color: white;
+}
+
+.h1 {
+    text-align: center; 
+}
